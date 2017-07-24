@@ -14,3 +14,6 @@ To Run project - do the following:
 7. Should see ~100 Test Ether in Wallet 
 8. In (another) terminal window (in root folder) use this command "truffle test" to test everything (should cost fake gas and decrement MetaMask account balance
 9. Then run command "npm run dev" to open project in browser 
+
+
+Donations are appreciated - more tutorials comming! ETH: 0x1Fed84aC758EA12706B913F305f0924253EbFDC5
